@@ -14,14 +14,14 @@
 
 
 
-👨‍💻 Full Stack Developer
+<!--👨‍💻 Full Stack Developer
 ⚛️ Frontend: HTML • CSS • JavaScript • React • Tailwind CSS
 🛠️ Backend: JSP • Servlet • JDBC • PostgreSQL
 🚀 Building scalable, responsive, and user-focused web applications
-📚 Continuously learning modern web technologies
+📚 Continuously learning modern web technologies-->
 
 <!-- Personal details and image section -->
-
+👨‍💻 Full Stack Developer<br />
 💛 In love with <strong>JavaScript</strong> <img src="https://github.com/user-attachments/assets/03f28b46-a00a-4204-b070-817b98f169cc" min-width="300px" max-width="300px" width="350px" align="right" /> <br />
 🎨 Love writing <strong>CSS / SCSS</strong> <br />
 🌱 Full Stack Web Developer in <strong>Next JS</strong> <br />
