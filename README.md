@@ -3,7 +3,7 @@
 
 <!-- Social Links centered under the header -->
 <p align="center">
-  <a href=" https://deva099.github.io/Portfolio/">Portfolio</a> -
+  <a href="#">Portfolio</a> -
   <a href="https://www.linkedin.com/in/dibakar-pradhan-165448228/">LinkedIn</a> - 
   <a href="">Twitter</a> -
   <a href="https://www.instagram.com/mr._deva_xx69_/">Instagram</a>
